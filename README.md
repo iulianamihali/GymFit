@@ -2,7 +2,7 @@
 
 It is designed to simulate a fitness platform where clients can manage their training sessions and subscriptions, while trainers handle schedules, availability, and group courses. **Additionally**, clients can submit reviews only for trainers they are actively enrolled with, ensuring feedback is relevant and experience-based.
 
-The application is built with a **React** frontend and an **ASP.NET Core** backend, using **SQL Server** as the database. Authentication is implemented using **JWT**.
+The application is built with a **React** (**TypeScript**) frontend and an **ASP.NET Core** backend, using **SQL Server** as the database. Authentication is implemented using **JWT**.
 
 ## Preview 
 ### Client Dashboard
@@ -31,7 +31,7 @@ The application is built with a **React** frontend and an **ASP.NET Core** backe
 
 ## Technologies Used
 
-- **Frontend**: React, Axios, React Router
+- **Frontend**: React with TypeScript, Axios, React Router
 - **Backend**: ASP.NET Core, Entity Framework Core
 - **Database**: SQL Server
 - **Authentication**: JWT (JSON Web Tokens)
