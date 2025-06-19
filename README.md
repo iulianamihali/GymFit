@@ -27,7 +27,7 @@ The application is built with a **React** frontend and an **ASP.NET Core** backe
   - Create and edit their own courses
   - View enrolled clients
   - See monthly statistics of completed training sessions
-- Secure login and JWT-based authorization
+- Secure login and JWT-based authorization for both clients and trainers
 
 ## Technologies Used
 
