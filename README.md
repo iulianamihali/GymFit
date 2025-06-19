@@ -1,4 +1,7 @@
 # GymFit - Full-Stack Web Fitness Application
+  ## Repositories
+- [Frontend Repository](https://github.com/iulianamihali/GymFitFrontend)
+- [Backend Repository](https://github.com/iulianamihali/GymFitBackend)
 
 It is designed to simulate a fitness platform where clients can manage their training sessions and subscriptions, while trainers handle schedules, availability, and group courses. **Additionally**, clients can submit reviews only for trainers they are actively enrolled with, ensuring feedback is relevant and experience-based.
 
@@ -37,6 +40,3 @@ The application is built with a **React** (**TypeScript**) frontend and an **ASP
 - **Authentication**: JWT (JSON Web Tokens)
 - **Tools**: Git, GitHub, Postman, Visual Studio
   
-  ## Repositories
-- [Frontend Repository](https://github.com/iulianamihali/GymFitFrontend)
-- [Backend Repository](https://github.com/iulianamihali/GymFitBackend)
